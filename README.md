@@ -1,6 +1,6 @@
 ﻿# Docker Version of Certipy
 
-Runs with Python 3.10.4
+Runs with Python 3.12
 
 ## Build
 
